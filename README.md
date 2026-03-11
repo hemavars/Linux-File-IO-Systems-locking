@@ -143,8 +143,11 @@ int main(int argc, char *argv[]) {
 ## OUTPUT
 
 ![image](image/src1.png)
+
 ![image](image/src2.png)
+
 ![image](image/src3.png)
+
 ![image](image/src4.png)
 
 # RESULT:
