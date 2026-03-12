@@ -139,7 +139,6 @@ int main(int argc, char *argv[]) {
     return 0;
 }
 
-
 ## OUTPUT
 
 ![image](image/src1.png)
